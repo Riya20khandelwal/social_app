@@ -1,2 +1,2 @@
 # social_app
-Social Application
+Social Application using Django
